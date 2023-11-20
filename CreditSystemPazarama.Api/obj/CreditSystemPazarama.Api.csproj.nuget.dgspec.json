@@ -1,0 +1,324 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Api/CreditSystemPazarama.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Api/CreditSystemPazarama.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Api/CreditSystemPazarama.Api.csproj",
+        "projectName": "CreditSystemPazarama.Api",
+        "projectPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Api/CreditSystemPazarama.Api.csproj",
+        "packagesPath": "/Users/ceyhanaslan/.nuget/packages/",
+        "outputPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ceyhanaslan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Application/CreditSystemPazarama.Application.csproj": {
+                "projectPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Application/CreditSystemPazarama.Application.csproj"
+              },
+              "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/CreditSystemPazarama.Contracts.csproj": {
+                "projectPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/CreditSystemPazarama.Contracts.csproj"
+              },
+              "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Infrastructure/CreditSystemPazarama.Infrastructure.csproj": {
+                "projectPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Infrastructure/CreditSystemPazarama.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/ceyhanaslan/.dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Application/CreditSystemPazarama.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Application/CreditSystemPazarama.Application.csproj",
+        "projectName": "CreditSystemPazarama.Application",
+        "projectPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Application/CreditSystemPazarama.Application.csproj",
+        "packagesPath": "/Users/ceyhanaslan/.nuget/packages/",
+        "outputPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ceyhanaslan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/CreditSystemPazarama.Contracts.csproj": {
+                "projectPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/CreditSystemPazarama.Contracts.csproj"
+              },
+              "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Infrastructure/CreditSystemPazarama.Infrastructure.csproj": {
+                "projectPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Infrastructure/CreditSystemPazarama.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/ceyhanaslan/.dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/CreditSystemPazarama.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/CreditSystemPazarama.Contracts.csproj",
+        "projectName": "CreditSystemPazarama.Contracts",
+        "projectPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/CreditSystemPazarama.Contracts.csproj",
+        "packagesPath": "/Users/ceyhanaslan/.nuget/packages/",
+        "outputPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ceyhanaslan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/ceyhanaslan/.dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/CreditSystemPazarama.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/CreditSystemPazarama.Domain.csproj",
+        "projectName": "CreditSystemPazarama.Domain",
+        "projectPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/CreditSystemPazarama.Domain.csproj",
+        "packagesPath": "/Users/ceyhanaslan/.nuget/packages/",
+        "outputPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ceyhanaslan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/ceyhanaslan/.dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Infrastructure/CreditSystemPazarama.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Infrastructure/CreditSystemPazarama.Infrastructure.csproj",
+        "projectName": "CreditSystemPazarama.Infrastructure",
+        "projectPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Infrastructure/CreditSystemPazarama.Infrastructure.csproj",
+        "packagesPath": "/Users/ceyhanaslan/.nuget/packages/",
+        "outputPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ceyhanaslan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/CreditSystemPazarama.Domain.csproj": {
+                "projectPath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/CreditSystemPazarama.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/ceyhanaslan/.dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

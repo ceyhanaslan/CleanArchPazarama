@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MPFnqj0SJttjQHsT0PCsLwg37hWq2dYOq9gOaaX3tKZz6c7VhZE2F+Q8W8DzZnpfXW9So15c+4Ec9zrAQGZKuw==",
+  "success": true,
+  "projectFilePath": "/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/CreditSystemPazarama.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/ceyhanaslan/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

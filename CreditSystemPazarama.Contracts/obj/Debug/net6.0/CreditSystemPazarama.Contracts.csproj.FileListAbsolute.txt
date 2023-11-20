@@ -1,0 +1,12 @@
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/obj/Debug/net6.0/CreditSystemPazarama.Contracts.csproj.AssemblyReference.cache
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/obj/Debug/net6.0/CreditSystemPazarama.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/obj/Debug/net6.0/CreditSystemPazarama.Contracts.AssemblyInfoInputs.cache
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/obj/Debug/net6.0/CreditSystemPazarama.Contracts.AssemblyInfo.cs
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/obj/Debug/net6.0/CreditSystemPazarama.Contracts.csproj.CoreCompileInputs.cache
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/bin/Debug/net6.0/CreditSystemPazarama.Contracts.deps.json
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/bin/Debug/net6.0/CreditSystemPazarama.Contracts.dll
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/bin/Debug/net6.0/CreditSystemPazarama.Contracts.pdb
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/obj/Debug/net6.0/CreditSystemPazarama.Contracts.dll
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/obj/Debug/net6.0/refint/CreditSystemPazarama.Contracts.dll
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/obj/Debug/net6.0/CreditSystemPazarama.Contracts.pdb
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Contracts/obj/Debug/net6.0/ref/CreditSystemPazarama.Contracts.dll

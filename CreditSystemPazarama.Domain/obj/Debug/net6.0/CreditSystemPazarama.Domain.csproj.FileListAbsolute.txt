@@ -1,0 +1,12 @@
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/obj/Debug/net6.0/CreditSystemPazarama.Domain.csproj.AssemblyReference.cache
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/obj/Debug/net6.0/CreditSystemPazarama.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/obj/Debug/net6.0/CreditSystemPazarama.Domain.AssemblyInfoInputs.cache
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/obj/Debug/net6.0/CreditSystemPazarama.Domain.AssemblyInfo.cs
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/obj/Debug/net6.0/CreditSystemPazarama.Domain.csproj.CoreCompileInputs.cache
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/bin/Debug/net6.0/CreditSystemPazarama.Domain.deps.json
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/bin/Debug/net6.0/CreditSystemPazarama.Domain.dll
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/bin/Debug/net6.0/CreditSystemPazarama.Domain.pdb
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/obj/Debug/net6.0/CreditSystemPazarama.Domain.dll
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/obj/Debug/net6.0/refint/CreditSystemPazarama.Domain.dll
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/obj/Debug/net6.0/CreditSystemPazarama.Domain.pdb
+/Users/ceyhanaslan/Desktop/CreditApplicationPazarama/CreditSystemPazarama/CreditSystemPazarama.Domain/obj/Debug/net6.0/ref/CreditSystemPazarama.Domain.dll
